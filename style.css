@@ -350,7 +350,7 @@ main.sign-up-mode .carousel {
     height: auto;
     width: 100%;
     padding: 3rem 2rem;
-    display: flex;
+    display: none;
   }
 
   .images-wrapper {
